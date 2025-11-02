@@ -1,6 +1,46 @@
 # Optical Character Recognition Comparison
 
 This repository compares different Optical Character Recognition (OCR) libraries for performance, accuracy, and ease of use. It aims to provide a practical evaluation of various OCR solutions, helping users choose the best option for their specific needs.
+# Comparision
+* Tesseract
+<p align="center">
+  <img src="test_images/Tesseract/id_img_tes.png" alt="BoxF1" width="45%">
+  <img src="test_images/Tesseract/id_text_tes.png" alt="BoxP" width="45%">
+</p>
+
+<p align="center">
+  <img src="test_images/Tesseract/para_img_tes.png" alt="BoxF1" width="45%">
+  <img src="test_images/Tesseract/para_text_tes.png" alt="BoxP" width="45%">
+</p>
+
+<p align="center">
+  <img src="test_images/Tesseract/banner_img_tes.png" alt="BoxF1" width="45%">
+  <img src="test_images/Tesseract/banner_text_tes.png" alt="BoxP" width="45%">
+</p>
+
+* EasyOCR
+<p align="center">
+  <img src="test_images/easyocr/id_img_easyocr.png" alt="BoxF1" width="45%">
+  <img src="test_images/easyocr/id_text_easyocr.png" alt="BoxP" width="45%">
+</p>
+
+<p align="center">
+  <img src="test_images/easyocr/para_img_easyocr.png" alt="BoxF1" width="45%">
+  <img src="test_images/easyocr/para_text_easyocr.png" alt="BoxP" width="45%">
+</p>
+
+
+<p align="center">
+  <img src="test_images/easyocr/banner_img_easyocr.png" alt="BoxF1" width="45%">
+  <img src="test_images/easyocr/banner_text_easyocr.png" alt="BoxP" width="45%">
+</p>
+
+* VLM Vintern
+<p align="center">
+  <img src="test_images/vintern.png" alt="BoxF1" width="45%">
+  
+</p>
+
 
 ## Features and Functionality
 
